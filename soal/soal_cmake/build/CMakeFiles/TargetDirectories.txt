@@ -1,0 +1,3 @@
+C:/Users/asus pc/OneDrive/Documents/URO/Tugas1/SEKURO_TUGAS_1_Fauzan_PROGRAMMING/soal/soal_cmake/build/CMakeFiles/robot.dir
+C:/Users/asus pc/OneDrive/Documents/URO/Tugas1/SEKURO_TUGAS_1_Fauzan_PROGRAMMING/soal/soal_cmake/build/CMakeFiles/edit_cache.dir
+C:/Users/asus pc/OneDrive/Documents/URO/Tugas1/SEKURO_TUGAS_1_Fauzan_PROGRAMMING/soal/soal_cmake/build/CMakeFiles/rebuild_cache.dir
