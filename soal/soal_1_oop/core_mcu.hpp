@@ -4,6 +4,11 @@
 class Core_MCU{
 private:
     //[TODO]: Buatlah atribute atribute dalam class ini
+    float cpu_speed;
+    std::string nama;
+    std::string os;
+    int memory;
+    int volt;
 public:
     Core_MCU(float cpu_speed,int memory,std::string os,std::string nama,int volt);
     void showSpek();

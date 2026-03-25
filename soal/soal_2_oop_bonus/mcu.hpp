@@ -6,6 +6,11 @@ class MCU{
 //[TODO]: Buatlah atribute atribute dalam class ini
 private:
 protected:
+    float cpu_speed;
+    int memory;
+    std::string os;
+    std::string name;
+    int volt;
 public:
     MCU(float cpu_speed,int memory,std::string os,std::string name,int volt);
     virtual void showSpek();
